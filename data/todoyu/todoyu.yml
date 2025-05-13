@@ -1,0 +1,48 @@
+name: todoyu
+description: todoyu is a web-based project and task management tool featuring
+  built-in timetracking, team organization, and resource management, making it
+  suitable for tracking time across projects and teams.
+source_url: https://medevel.com/todoyu/
+category: team-project-time-tracking
+tags:
+  - web-based
+  - project-management
+  - resource-management
+  - teams
+markdown: >-
+  # todoyu
+
+
+  [todoyu](https://medevel.com/todoyu/) is a free, open-source, self-hosted
+  web-based project and task management tool. It provides features for
+  timetracking, team organization, and resource management, making it suitable
+  for managing and tracking time across projects and teams.
+
+
+  ## Features
+
+  - Web-based project and task management
+
+  - Built-in time tracking
+
+  - Team organization
+
+  - Resource management
+
+  - Calendar
+
+  - Client interface
+
+  - Multi-language support (French, Dutch, Polish, Italian, English, Serbian,
+  Brazilian Portuguese, German, Japanese, Spanish, Russian)
+
+
+  ## License
+
+  - BSD License
+
+
+  ## Pricing
+
+  - Free and open-source
+updated_at: 2025-05-13 22:52
