@@ -1,68 +1,42 @@
-name: timeTracker
-description: An open-source desktop time tracking app built with Electron,
-  React, Sass, and pouchdb. Features customer and project management, time
-  records, CSV export, and multilingual support.
-source_url: https://github.com/wende60/timeTracker
-category: team-project-time-tracking
+name: timetracker
+description: Papierkram.de TimeTracker is a Flutter app for time tracking,
+  providing a mobile solution for users needing to log their work hours.
+source_url: https://github.com/SimonIT/timetracker
+category: mobile-time-tracking
 tags:
+  - flutter
+  - mobile
   - open-source
-  - electron
-  - project-management
-  - csv-export
+  - personal-use
 markdown: >-
-  # timeTracker
+  # timetracker
 
 
-  [Source Code](https://github.com/wende60/timeTracker)
-
-
-  ## Description
-
-
-  timeTracker is an open-source desktop time tracking application built with
-  Electron, React, Sass, and pouchdb. It offers features for customer and
-  project management, time record tracking, CSV data export, and multilingual
-  support. The project is currently in progress.
+  Papierkram.de TimeTracker is an open-source Flutter app for mobile time
+  tracking, providing users with a way to log their work hours on their
+  smartphones. This is an unofficial application for Papierkram.de and is not
+  associated with odacer Finanzsoftware GmbH.
 
 
   ## Features
 
+  - Mobile time tracking for work hours
 
-  - Desktop time tracking application
+  - Flutter-based: runs on Android and iOS
 
-  - Built with Electron, React, Sass, and pouchdb
+  - Open-source
 
-  - Customer management
+  - Designed for personal use
 
-  - Project management
-
-  - Track time records
-
-  - Export data to CSV
-
-  - Multilingual support
-
-
-  ## Category
-
-
-  Team Project Time Tracking
-
-
-  ## Tags
-
-
-  - open-source
-
-  - electron
-
-  - project-management
-
-  - csv-export
+  - Provides a mobile solution for users of Papierkram.de
 
 
   ## Pricing
 
+  - Free and open-source
 
-  No pricing information provided; the application is open-source.
+
+  ## Links
+
+  - [Source code on GitHub](https://github.com/SimonIT/timetracker)
 updated_at: 2025-05-13 22:52

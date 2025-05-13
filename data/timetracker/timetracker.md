@@ -1,32 +1,16 @@
-# timeTracker
+# timetracker
 
-[Source Code](https://github.com/wende60/timeTracker)
-
-## Description
-
-timeTracker is an open-source desktop time tracking application built with Electron, React, Sass, and pouchdb. It offers features for customer and project management, time record tracking, CSV data export, and multilingual support. The project is currently in progress.
+Papierkram.de TimeTracker is an open-source Flutter app for mobile time tracking, providing users with a way to log their work hours on their smartphones. This is an unofficial application for Papierkram.de and is not associated with odacer Finanzsoftware GmbH.
 
 ## Features
-
-- Desktop time tracking application
-- Built with Electron, React, Sass, and pouchdb
-- Customer management
-- Project management
-- Track time records
-- Export data to CSV
-- Multilingual support
-
-## Category
-
-Team Project Time Tracking
-
-## Tags
-
-- open-source
-- electron
-- project-management
-- csv-export
+- Mobile time tracking for work hours
+- Flutter-based: runs on Android and iOS
+- Open-source
+- Designed for personal use
+- Provides a mobile solution for users of Papierkram.de
 
 ## Pricing
+- Free and open-source
 
-No pricing information provided; the application is open-source.
+## Links
+- [Source code on GitHub](https://github.com/SimonIT/timetracker)
