@@ -1,0 +1,48 @@
+name: TimeSlate
+description: TimeSlate is an open-source Electron JS desktop application that
+  tracks the usage time of different active applications on a computer and
+  provides analysis reports. Ideal for users seeking insight into their desktop
+  activity and time allocation across apps.
+source_url: https://github.com/pranavmodx/TimeSlate
+category: desktop-time-tracking-applications
+tags:
+  - open-source
+  - electron
+  - usage-monitoring
+  - reporting
+markdown: >-
+  # TimeSlate
+
+
+  [TimeSlate](https://github.com/pranavmodx/TimeSlate) is an open-source
+  Electron JS desktop application for tracking the usage time of different
+  active applications on your computer. It provides analysis reports to help
+  users gain insight into their desktop activity and time allocation across
+  applications.
+
+
+  ## Features
+
+  - Tracks usage time of different active applications running on the computer
+
+  - Provides analysis reports based on usage data
+
+  - Electron JS based desktop application
+
+  - Open-source and available for modification or self-hosting
+
+
+  ## Pricing
+
+  - Free and open-source
+
+
+  ## Category
+
+  - Desktop Time Tracking Applications
+
+
+  ## Tags
+
+  open-source, electron, usage-monitoring, reporting
+updated_at: 2025-05-13 22:52
