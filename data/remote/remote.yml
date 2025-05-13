@@ -1,57 +1,77 @@
 name: Remote
-description: Remote offers a Time and Attendance Tracking feature that enables
-  teams to accurately track project time, manage paid time off (PTO), and
-  monitor public holidays, making it highly relevant for businesses needing
-  robust time tracking across distributed teams.
-source_url: https://connecteam.com/best-remote-employee-time-tracking-apps/
+description: Remote is an HR management platform offering a project
+  time-tracking solution, including manual and automatic logging of working
+  hours, timesheet review and approval, and compliance monitoring. It's suitable
+  for managing remote teams and ensuring accurate, compliant time tracking.
+source_url: https://remote.com/
 category: team-project-time-tracking
 tags:
-  - attendance
-  - teams
-  - web-based
-  - resource-management
+  - hr
+  - compliance
+  - approval-workflows
+  - remote-teams
 markdown: >-
   # Remote
 
 
-  Remote offers a Time and Attendance Tracking feature designed for distributed
-  teams, enabling accurate project time tracking, paid time off (PTO)
-  management, and monitoring of public holidays. This makes it suitable for
-  businesses requiring robust time tracking across remote or hybrid teams.
+  [Remote](https://remote.com/) is an HR management platform designed to
+  facilitate global hiring, payroll, and HR processes for remote teams. It
+  provides solutions for managing employees and contractors across multiple
+  countries, ensuring compliance, and streamlining HR operations.
 
 
   ## Features
 
-  - Time and attendance tracking for distributed teams
+  - **Global Hiring:** Find, recruit, and onboard talent from anywhere in the
+  world.
 
-  - Project time tracking
+  - **Payroll Management:** Manage payroll and payments for employees and
+  contractors in multiple currencies, ensuring accurate and compliant payouts.
 
-  - PTO (paid time off) management
+  - **HR Management:** Centralized platform for employee data, expense
+  management, and time-off tracking.
 
-  - Public holiday monitoring
+  - **Time Tracking:** Project-based time tracking with options for manual and
+  automatic logging of working hours, timesheet review, and approval.
 
-  - Web-based platform for teams
+  - **Compliance Monitoring:** Ensure compliance with local employment laws and
+  regulations in 193 countries.
 
-  - Resource management tools
+  - **Employer of Record (EOR):** Hire employees in new countries without
+  establishing a local entity, with compliance and payroll support.
 
+  - **Contractor Management:** Manage and pay contractors globally, with support
+  for compliance and administration.
 
-  ## Category
+  - **Integrations:** Connect with various HR tools and APIs for enhanced
+  functionality.
 
-  team-project-time-tracking
+  - **Country-specific Guides:** Access detailed guides for employment practices
+  in different countries.
 
+  - **Salary and Employment Cost Calculators:** Tools to estimate total
+  employment costs globally.
 
-  ## Tags
+  - **AI-powered Recruitment:** Use AI to match candidates and speed up hiring.
 
-  attendance, teams, web-based, resource-management
-
-
-  ## Source
-
-  [Best Remote Employee Time Tracking
-  Apps](https://connecteam.com/best-remote-employee-time-tracking-apps/)
+  - **Misclassification Risk Tool:** Assess risks of misclassifying contractors
+  and employees.
 
 
   ## Pricing
 
-  Pricing information for Remote is not provided in the available content.
+  - **Transparent Pricing:** Remote offers fair and transparent pricing with no
+  hidden fees. Specific pricing plans or tiers are not detailed in the provided
+  content. For more information, visit the [Remote Pricing
+  Page](https://remote.com/).
+
+
+  ## Category
+
+  - Team Project Time Tracking
+
+
+  ## Tags
+
+  `hr`, `compliance`, `approval-workflows`, `remote-teams`
 updated_at: 2025-05-13 22:52
