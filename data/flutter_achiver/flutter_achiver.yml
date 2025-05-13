@@ -1,0 +1,43 @@
+name: flutter_achiver
+description: A minimal Pomodoro-style timer and time tracker built with Flutter,
+  focused on simple time tracking and productivity.
+source_url: https://github.com/lohanidamodar/flutter_achiver
+category: countdown-interval-timers
+tags:
+  - pomodoro
+  - flutter
+  - mobile
+  - productivity
+markdown: >
+  # flutter_achiver
+
+
+  A minimal Pomodoro-style timer and time tracker built with Flutter, focused on
+  simple time tracking and productivity.
+
+
+  - **Category:** Countdown & Interval Timers
+
+  - **Tags:** pomodoro, flutter, mobile, productivity
+
+  - **Source:** [GitHub
+  Repository](https://github.com/lohanidamodar/flutter_achiver)
+
+
+  ## Features
+
+  - Pomodoro-style timer for focused work sessions
+
+  - Time tracking functionality
+
+  - Built with Flutter (primarily tested on Android)
+
+  - Requires Firebase setup (Firestore, Google Sign-In)
+
+  - Open-source with community contributions welcome
+
+
+  ## Pricing
+
+  - Not specified (open-source project)
+updated_at: 2025-05-13 22:52
