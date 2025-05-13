@@ -1,0 +1,46 @@
+name: screen-time-tracker
+description: A minimalist Python tracker that records application usage time and
+  provides insights into computer usage habits.
+source_url: https://github.com/sukitsubaki/screen-time-tracker
+category: automated-time-tracking
+tags:
+  - open-source
+  - python
+  - usage-monitoring
+  - analytics
+markdown: >-
+  # screen-time-tracker
+
+
+  **Category:** Automated Time Tracking  
+
+  **Tags:** open-source, python, usage-monitoring, analytics
+
+
+  ## Description
+
+  screen-time-tracker is a minimalist Python tool that records the usage time of
+  different applications on your computer, providing insights into your computer
+  usage habits.
+
+
+  ## Features
+
+  - Tracks and records time spent using various applications on your computer
+
+  - Provides insights into computer usage habits
+
+  - Minimalist and lightweight
+
+  - Open source (MIT License)
+
+
+  ## Source
+
+  [GitHub Repository](https://github.com/sukitsubaki/screen-time-tracker)
+
+
+  ## Pricing
+
+  - Free and open source (MIT License)
+updated_at: 2025-05-13 22:52
