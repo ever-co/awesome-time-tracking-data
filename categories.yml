@@ -18,3 +18,7 @@
   name: Time Tracking Overview & Resources
 - id: countdown-interval-timers
   name: Countdown & Interval Timers
+- id: commerce
+  name: Commerce
+- id: open-sources
+  name: Open Sources
